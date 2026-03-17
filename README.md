@@ -20,7 +20,7 @@ Your users should be able to:
 
 ### Screenshot
 
-!
+![image](./design/landingPage.gif)
 
 ### Links
 
@@ -39,7 +39,7 @@ Your users should be able to:
 
 ### What I learned
 
--
+- Using Grids
 
 ### Continued development
 
